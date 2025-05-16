@@ -8,6 +8,11 @@ This is a PyTorch implementation of [Swin MAE](https://arxiv.org/abs/2212.13805)
 2. Open "train.py" and fill in the dataset path. There should be at least one category folder under this path. The data for training is stored in the category folder.
 3. Run "train.py".
 
+### Dataset
+The paper utilizes two datasets: 
+- Parotid gland segmentation dataset;
+- [BTCV dataset](https://www.synapse.org/Synapse:syn3193805/wiki/217789).
+
 ### Citation
 ```
 @article{ WOS:001012921200001,
