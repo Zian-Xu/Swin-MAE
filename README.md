@@ -13,12 +13,12 @@ The paper utilizes two datasets:
 - Parotid gland segmentation dataset;
 - [BTCV dataset](https://www.synapse.org/Synapse:syn3193805/wiki/217789).
 
-## License
+### License
 
 This code is released under a **custom non-commercial license**.
 
 It is free to use for **non-commercial research and academic purposes only**.  
-📢 **Commercial use is strictly prohibited.**  
+**Commercial use is strictly prohibited.**  
 For commercial licensing inquiries, please contact: xuzian1113@foxmail.com.
 
 ### Citation
